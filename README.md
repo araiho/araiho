@@ -23,6 +23,8 @@ Head of Data Science at **Funga**. There I led a team of 4 Ph.D. scientists, bui
 
 Most of my recent work is client or in-progress and lives in private repos, so the public list is only part of the picture. A few examples I can describe:
 
+- **Extinction risk** (Temple, NSF-funded): a forecasting system for time to extinction under climate and land-use change, built on satellite imagery and foundation-model embeddings at global scale.
+- **LPJ-EOSIM**: fire and Earth-system-model development, including the SPITFIRE fire model and a new coupling to the CENTURY nitrogen cycle, in a NASA dynamic global vegetation model.
 - **Canopy Intelligence**: a monorepo of forest and tree analytics products for Raiho Consulting clients.
 - **GeoMend**: a training-free pipeline that flags, corrects, and georeferences erroneous coordinates in GBIF occurrence records.
 - **Wissahickon forecast**: forest forecasting for the Wissahickon watershed built on the UVAFME gap model.
