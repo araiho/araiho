@@ -19,6 +19,16 @@ My lane is Bayesian and hierarchical modeling, uncertainty quantification, forec
 
 Head of Data Science at **Funga**. There I led a team of 4 Ph.D. scientists, built a patented ensemble recommender that raised inoculant selection win rate from 10% to 50%, and ran carbon-reporting pipelines across 28,000 acres that cut manual effort 50%. Before that, a postdoc at **NASA Goddard / UMD**. I set minimum satellite requirements that informed instrument and orbit choices for the Surface Biology and Geology mission, and flew a 13-week AVIRIS-NG hyperspectral campaign.
 
+### A note on what you can see here
+
+Most of my recent work is client or in-progress and lives in private repos, so the public list is only part of the picture. A few examples I can describe:
+
+- **Canopy Intelligence**: a monorepo of forest and tree analytics products for Raiho Consulting clients.
+- **GeoMend**: a training-free pipeline that flags, corrects, and georeferences erroneous coordinates in GBIF occurrence records.
+- **Wissahickon forecast**: forest forecasting for the Wissahickon watershed built on the UVAFME gap model.
+
+Happy to walk through any of it on request.
+
 ### Tools
 
 Python · R · C++ · SQL · PyTorch · GDAL · rasterio · XArray · GeoPandas · Shapely · Google Earth Engine · AWS · Docker · GitHub Actions · HPC
